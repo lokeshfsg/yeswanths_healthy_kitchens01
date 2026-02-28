@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "restaurant":"Punjabi Tadka",
+        "city":"chandigarh",
+        "image": "https://cdn.cdnparenting.com/articles/2019/03/25144135/774826042-H.webp",
+        "reviews": [
+            { "username": "Amit", "rating": 5, "comment": "Amazing food! Loved the Butter Chicken." },
+            { "username": "Neha", "rating": 4, "comment": "Great ambiance, but a bit expensive." }
+        ]
+    }, 
+    {
+        "id":2,
+        "restaurant":"Dosa special",
+        "city":"bangalore",
+        "image": "https://vismaifood.com/storage/app/uploads/public/8b4/19e/427/thumb__1200_0_0_0_auto.jpg",
+        "reviews": [
+            { "username": "Rahul", "rating": 5, "comment": "Authentic South Indian taste!" },
+            { "username": "Priya", "rating": 4, "comment": "Delicious, but the service was slow." }
+        ]
+    }, 
+    {
+        "id":3,
+        "restaurant":"Taste'Of'Bangalore",
+        "city":"bangalore",
+       "image": "https://yennadosa.com/wp-content/uploads/2024/12/yenna-blog-4.png",
+       "reviews": [
+        { "username": "Rahul", "rating": 5, "comment": "Authentic South Indian taste!" },
+        { "username": "Priya", "rating": 4, "comment": "Delicious, but the service was slow." }
+    ]
+    }, 
+    {
+        "id":4,
+        "restaurant":"Dominos",
+        "city":"Mumbai",
+       "image": "https://news.bharatkasankalp.com/wp-content/uploads/2024/11/Dominos-Pizza-India-menu-and-reviews-780x400.webp",
+       "reviews": [
+        { "username": "Rahul", "rating": 5, "comment": "Good taste!" },
+        { "username": "Priya", "rating": 4, "comment": "Delicious, but the service was slow." }
+    ]
+    }, 
+    {
+        "id":5,
+        "restaurant":"Burger",
+        "city":"Pune",
+        "image": "https://www.foodandwine.com/thmb/DI29Houjc_ccAtFKly0BbVsusHc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/crispy-comte-cheesburgers-FT-RECIPE0921-6166c6552b7148e8a8561f7765ddf20b.jpg",
+        "reviews": [
+            { "username": "Rahul", "rating": 5, "comment": "Authentic Jumbo Burger enough for one person!" },
+            { "username": "Priya", "rating": 4, "comment": "Delicious, but the service was slow." }
+        ] 
+    },
+    {
+        "id":6,
+        "restaurant":"Delhi Durbar",
+        "city":"delhi",
+        "image": "https://b.zmtcdn.com/data/pictures/chains/7/19667017/292d375c27019b660cb5ff790cd585bc.jpg",
+        "reviews": [
+            { "username": "Rahul", "rating": 5, "comment": "Traditional Biryani taste!" },
+            { "username": "Priya", "rating": 4, "comment": "Delicious, but the gravy was spicy." }
+        ] 
+    }
+]
